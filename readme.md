@@ -10,6 +10,9 @@ Repositori ini berisi source code untuk video pada channel [Fahmi Noor Fiqri](ht
 Algoritma dan Pemrograman Kuliah
 
 - [Episode 1 - Menghitung Luas Segi Tiga](https://www.youtube.com/watch?v=xABBfDwr84s)
+- [Episode 2 - Menghitung Keliling Segi Lima](https://www.youtube.com/watch?v=9VslzED6-bE)
+- [Episode 3 - Menghitung Rata-Rata Data](https://www.youtube.com/watch?v=JkWwot28VYI)
+- [Episode 4 - Menghitung Rata-Rata Data Menggunakan Array](https://www.youtube.com/watch?v=4DybnZsB-I8)
 
 Algoritma dan Pemrograman Praktikum
 
