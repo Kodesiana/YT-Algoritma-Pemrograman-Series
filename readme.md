@@ -13,6 +13,9 @@ Algoritma dan Pemrograman Kuliah
 - [Episode 2 - Menghitung Keliling Segi Lima](https://www.youtube.com/watch?v=9VslzED6-bE)
 - [Episode 3 - Menghitung Rata-Rata Data](https://www.youtube.com/watch?v=JkWwot28VYI)
 - [Episode 4 - Menghitung Rata-Rata Data Menggunakan Array](https://www.youtube.com/watch?v=4DybnZsB-I8)
+- [Episode 5 - Batch File](https://www.youtube.com/watch?v=kXSTebi3Eis)
+- [Episode 6 - Aplikasi Statistika Deskriptif](https://www.youtube.com/watch?v=A_3-bz8zy0Y)
+- [Episode 7 - Konversi Suhu](https://www.youtube.com/watch?v=-8zehgzSN84)
 
 Algoritma dan Pemrograman Praktikum
 
